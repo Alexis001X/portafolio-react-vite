@@ -173,8 +173,8 @@ export const portfolioData = {
       description: "Sitio web personal con diseño moderno y animaciones suaves.",
       image: "https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg",
       technologies: ["React", "SCSS", "Framer Motion"],
-      liveUrl: "https://ejemplo-portfolio.com",
-      githubUrl: "https://github.com/usuario/portfolio",
+      liveUrl: "https://portafolio-react-vite-eta.vercel.app/",
+      githubUrl: "https://github.com/Alexis001X/portafolio-react-vite",
       featured: false
     },
     {
@@ -201,8 +201,8 @@ export const portfolioData = {
 
   // Enlaces sociales
   social: {
-    github: "https://github.com/tuusuario",
-    linkedin: "https://linkedin.com/in/tuusuario",
+    github: "https://github.com/Alexis001X",
+    linkedin: "https://www.linkedin.com/in/alexis-daniel-mena-parco/",
     twitter: "https://twitter.com/tuusuario",
     behance: "https://behance.net/tuusuario",
     dribbble: "https://dribbble.com/tuusuario"

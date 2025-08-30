@@ -11,10 +11,10 @@ const Footer = () => {
         <Row>
           <Col lg={12} className="text-center">
             <p className="mb-1">
-              © 2024 {personal.name}. Todos los derechos reservados.
+              © 2025 {personal.name}. Todos los derechos reservados.
             </p>
             <p className="text-muted small mb-0">
-              Desarrollado con React + Vite | Diseñado con pasión ❤️
+              Desarrollado con React + Vite 
             </p>
           </Col>
         </Row>
