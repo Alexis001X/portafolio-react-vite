@@ -2,6 +2,10 @@
 
 Un portfolio personal moderno y responsivo desarrollado con React.js, diseñado para mostrar proyectos, habilidades y experiencia profesional de manera atractiva e interactiva.
 
+# 💻 Visualizar 
+
+Vercel: https://portafolio-react-vite-eta.vercel.app/ 
+
 ## 🚀 Características
 
 - **Diseño Responsivo**: Adaptable a todos los dispositivos (desktop, tablet, móvil)
