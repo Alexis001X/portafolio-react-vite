@@ -189,12 +189,12 @@ export const portfolioData = {
     },
     {
       id: 5,
-      title: "Sistema de control y facturacion de agua potable",
-      description: "Aplicacion de escritorio diseñada para el control de facturas, clientes y lecturas.",
-      image: "https://images.pexels.com/photos/3862142/pexels-photo-3862142.jpeg",
-      technologies: ["Python", "Tkinter", "SQLite"],
+      title: "Dashboard climatico con API externa",
+      description: "Dashboard interactivo que muestra datos climáticos en tiempo real utilizando una API externa.",
+      image: "https://images.pexels.com/photos/68704/pexels-photo-68704.jpeg",
+      technologies: ["React + vite", "Nodejs", "Express + Axios"],
       liveUrl: "https://ejemplo-recetas.com",
-      githubUrl: "",
+      githubUrl: "https://github.com/Alexis001X/Clima-api",
       featured: false
     }
   ],
